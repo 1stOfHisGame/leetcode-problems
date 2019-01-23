@@ -24,15 +24,15 @@ isFull(): Checks whether the circular queue is full or not.
 
 ### Example:
 
-MyCircularQueue circularQueue = new MyCircularQueue(3); // set the size to be 3
-circularQueue.enQueue(1);  // return true
-circularQueue.enQueue(2);  // return true
-circularQueue.enQueue(3);  // return true
-circularQueue.enQueue(4);  // return false, the queue is full
-circularQueue.Rear();  // return 3
-circularQueue.isFull();  // return true
-circularQueue.deQueue();  // return true
-circularQueue.enQueue(4);  // return true
+MyCircularQueue circularQueue = new MyCircularQueue(3); // set the size to be 3<br/>
+circularQueue.enQueue(1);  // return true<br/>
+circularQueue.enQueue(2);  // return true<br/>
+circularQueue.enQueue(3);  // return true<br/>
+circularQueue.enQueue(4);  // return false, the queue is full<br/>
+circularQueue.Rear();  // return 3<br/>
+circularQueue.isFull();  // return true<br/>
+circularQueue.deQueue();  // return true<br/>
+circularQueue.enQueue(4);  // return true<br/>
 circularQueue.Rear();  // return 4
  
 ### Note:
