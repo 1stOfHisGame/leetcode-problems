@@ -2,6 +2,6 @@
 Some of the leetcode problems that I have solved, in Java.
 
 # Hard problems
-| Problem no. | Title | Link |
-| -- | -- | -- |
-| 980 | Unique Paths III | |
+| Leetcode<br/>Problem no. | My Solution |
+| --- | --- |
+| [980](https://leetcode.com/problems/unique-paths-iii/) | [Unique Paths III](/solutions/UniquePathsIII) |
