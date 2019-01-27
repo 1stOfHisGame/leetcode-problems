@@ -10,6 +10,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | Leetcode<br/>Problem no. | My Solution |
 | --- | --- |
 | [622](https://leetcode.com/problems/design-circular-queue/) | [Design Circular Queue](../master/problems/Design%20Circular%20Queue) |
+| [969](https://leetcode.com/problems/pancake-sorting/) | [Pancake Sorting](../master/problems/PancakeSorting) |
 
 
 ### Disclaimer:
