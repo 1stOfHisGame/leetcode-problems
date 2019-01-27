@@ -2,17 +2,17 @@ package leetcode;
 
 public class CircularQueue {
 
-	int f = 0;
-	int r = -1;
-	int k = 0;
-	int count = 0;
+	int f = 0; //front index
+	int r = -1; //rear index
+	int k = 0; //length of queue
+	int count = 0; //total no. of elements present in queue
 
 	int[] queue;
 
 	/** Initialize your data structure here. Set the size of the queue to be k. */
 	public CircularQueue(int k) {
 		this.k = k;
-		queue = new int[k];
+		queue = new int[k]; //create a queue of size k
 	}
 
 	/**
@@ -24,7 +24,7 @@ public class CircularQueue {
 			return false;
 		else {
 			count++;
-			r = (r + 1) % k;
+			r = (r + 1) % k; //circular increment rear index
 			queue[r] = value;
 			return true;
 		}
@@ -39,7 +39,7 @@ public class CircularQueue {
 			return false;
 		else {
 			count--;
-			f = (f + 1) % k;
+			f = (f + 1) % k; //circular increment front index
 			return true;
 		}
 	}
