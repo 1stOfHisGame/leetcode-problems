@@ -5,6 +5,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | Leetcode<br/>Problem no. | My Solution |
 | --- | --- |
 | [980](https://leetcode.com/problems/unique-paths-iii/) | [Unique Paths III](../master/problems/Unique%20Paths%20III) |
+| [4]() | [Median of two sorted arrays](../master/problems/Median%20of%20two%20sorted%20arrays) |
 
 ## Medium problems
 | Leetcode<br/>Problem no. | My Solution |
