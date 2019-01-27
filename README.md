@@ -9,7 +9,8 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [710](https://leetcode.com/problems/random-pick-with-blacklist/) | [Random Pick With Blacklist](../master/problems/Random%20Pick%20With%20Blacklist) |
 
 ## Medium problems
-| Leetcode<br/>Problem no. | My Solution |
+
+| Leetcode<br/>Verifying%20An%20Alien%20DictionaryProblem no. | My Solution |
 | --- | --- |
 | [622](https://leetcode.com/problems/design-circular-queue/) | [Design Circular Queue](../master/problems/Design%20Circular%20Queue) |
 | [969](https://leetcode.com/problems/pancake-sorting/) | [Pancake Sorting](../master/problems/PancakeSorting) |
@@ -19,6 +20,10 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [2](https://leetcode.com/problems/add-two-numbers/) | [Add two numbers](../master/problems/Add%20Two%20Numbers) | 
 | [139](https://leetcode.com/problems/word-break/) | [Word Break](../master/problems/Word%20Break) |
 
+## Easy problems
+| Leetcode<br/>Problem no. | My Solution |
+| --- | --- |
+| [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying An Alien Dictionary](../master/problems/Verifying%20An%20Alien%20Dictionary) |
 
 ### Disclaimer:
 - In spite of most leetcode problems not asking for a main method, you might still see one in solutions here. I added it to test initial cases, while solving it locally.
