@@ -10,7 +10,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 
 ## Medium problems
 
-| Leetcode<br/>Verifying%20An%20Alien%20DictionaryProblem no. | My Solution |
+| Leetcode<br/>Problem no. | My Solution |
 | --- | --- |
 | [622](https://leetcode.com/problems/design-circular-queue/) | [Design Circular Queue](../master/problems/Design%20Circular%20Queue) |
 | [969](https://leetcode.com/problems/pancake-sorting/) | [Pancake Sorting](../master/problems/PancakeSorting) |
