@@ -77,8 +77,6 @@ public class CircularQueue {
 	}
 
 	public static void main(String[] args) {
-		int value = 3;
-		int k = 3;
 		CircularQueue circularQueue = new CircularQueue(3); // set the size to be 3
 		System.out.println(circularQueue.enQueue(1)); // return true
 		System.out.println(circularQueue.enQueue(2)); // return true
