@@ -28,7 +28,7 @@ public class PrisonCellsAfterNDays {
 			// this way we can remember the no. of days before which this pattern occurs again
 			prisonHash.put(counter, cells.clone()); // cloning the cells to avoid sharing references
 
-			/* Uncomment this to debug each iteration */
+			/* Uncomment the following snippet to debug each iteration */
 
 			/*
 			 * System.out.print("counter: "+counter+"\t"); for(int i=0;i<cells.length;i++)
