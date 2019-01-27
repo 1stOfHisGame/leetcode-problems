@@ -5,7 +5,8 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | Leetcode<br/>Problem no. | My Solution |
 | --- | --- |
 | [980](https://leetcode.com/problems/unique-paths-iii/) | [Unique Paths III](../master/problems/Unique%20Paths%20III) |
-| [4]() | [Median of two sorted arrays](../master/problems/Median%20of%20two%20sorted%20arrays) |
+| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of two sorted arrays](../master/problems/Median%20of%20two%20sorted%20arrays) |
+| [710](https://leetcode.com/problems/random-pick-with-blacklist/) | [Random Pick With Blacklist](../master/problems/Random%20Pick%20With%20Blacklist) |
 
 ## Medium problems
 | Leetcode<br/>Problem no. | My Solution |
