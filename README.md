@@ -25,9 +25,10 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | --- | --- |
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying An Alien Dictionary](../master/problems/Verifying%20An%20Alien%20Dictionary) |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](../master/problems/N-Repeated%20Element%20in%20Size%202N%20Array) |
+| [970](https://leetcode.com/problems/powerful-integers/) | [Powerful Integers](../master/problems/Powerful%20Integers) |
 
 ### Disclaimer:
-- In spite of most leetcode problems not asking for a main method, you might still see one in solutions here. I added it to test initial cases, while solving it locally.
+- In spite of most leetcode problems not asking for a main method, you might still see one in some solutions here. I added it to test initial cases, while solving it locally.
 - All the solutions uploaded here have passed every test case and has been accepted at the time of my submission.
 - You can also check out the problems listed here on leetcode site, I've hyperlinked the problem numbers. 
 - I do not own, nor did I design any of the problems listed here. But the solutions are all my doing.
