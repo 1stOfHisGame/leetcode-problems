@@ -69,7 +69,7 @@ public class PancakeSort {
 
 	public List<Integer> pancakeSort(int[] A) {
 		List<Integer> res = new ArrayList<Integer>(); //result list to save indexes where we flipped
-		return new PancakeSort().pancakeRecipe(A,res);
+		return pancakeRecipe(A,res);
 	}
 
 	public static void main(String[] args) {
