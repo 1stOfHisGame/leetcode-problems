@@ -15,6 +15,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [969](https://leetcode.com/problems/pancake-sorting/) | [Pancake Sorting](../master/problems/PancakeSorting) |
 | [957](https://leetcode.com/problems/prison-cells-after-n-days/) | [Prison Cells After N Days](../master/problems/Prison%20Cells%20After%20N%20days) |
 | [966](https://leetcode.com/problems/vowel-spellchecker/) | [Vowel Spellchecker](../master/problems/Vowel%20Spellchecker) |
+| [6](https://leetcode.com/problems/zigzag-conversion/) | [ZigZag Conversion](../master/problems/ZigZag%20Conversion) |
 
 
 ### Disclaimer:
