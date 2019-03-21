@@ -30,6 +30,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](../master/problems/N-Repeated%20Element%20in%20Size%202N%20Array) |
 | [970](https://leetcode.com/problems/powerful-integers/) | [Powerful Integers](../master/problems/Powerful%20Integers) |
 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](../master/problems/Two%20Sum) |
+| [13](https://leetcode.com/problems/roman-to-integer/) | [Roman to Integer](../master/problems/Roman%20To%20Integer) |
 
 ### Disclaimer:
 - In spite of most leetcode problems not asking for a main method, you might still see one in some solutions here. I added it to test initial cases, while solving it locally.
