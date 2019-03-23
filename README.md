@@ -33,6 +33,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [13](https://leetcode.com/problems/roman-to-integer/) | [Roman to Integer](../master/problems/Roman%20To%20Integer) |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best time to buy and sell stock II](../master/problems/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best time to buy and sell stock](../master/problems/Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
+| [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](../master/problems/Maximum%20Subarray)|
 
 ### Disclaimer:
 - In spite of most leetcode problems not asking for a main method, you might still see one in some solutions here. I added it to test initial cases, while solving it locally.
