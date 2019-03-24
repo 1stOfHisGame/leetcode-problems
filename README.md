@@ -23,6 +23,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](../master/problems/Container%20With%20Most%20Water) |
 | [15](https://leetcode.com/problems/3sum/) | [3Sum](../master/problems/3%20sum)|
 | [1023](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Binary String With Substrings Representing 1 To N](../master/problems/Binary%20String%20With%20Substrings%20Representing%201%20To%20N) |
+| [1021](https://leetcode.com/problems/best-sightseeing-pair/) | [ Best Sightseeing Pair](../master/problems/Best%20Sightseeing%20Pair)|
 
 
 ## Easy problems
