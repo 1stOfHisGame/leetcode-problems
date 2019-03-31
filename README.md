@@ -26,7 +26,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [1021](https://leetcode.com/problems/best-sightseeing-pair/) | [ Best Sightseeing Pair](../master/problems/Best%20Sightseeing%20Pair)|
 | [641](https://leetcode.com/problems/design-circular-deque/) | [ Design Circular Deque](../master/problems/Design%20Circular%20Deque)|
 | [1019](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Next Greater Node In Linked List](../master/problems/Next%20Greater%20Node%20In%20Linked%20List)|
-| [1017](https://leetcode.com/problems/convert-to-base-2/) | [Convert to Base -2](/master/problems/Convert%20to%20Base%20-2)|
+| [1017](https://leetcode.com/problems/convert-to-base-2/) | [Convert to Base -2](../master/problems/Convert%20to%20Base%20-2)|
 
 
 ## Easy problems
