@@ -41,7 +41,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](../master/problems/Maximum%20Subarray)|
 
 ### Disclaimer:
-- The problem no. might be different from actual problem no. on site as they keep shuffling it.
+- The problem no. could be different than actual problem no. on leetcode site.
 - In spite of most leetcode problems not asking for a main method, you might still see one in some solutions here. I added it to test initial cases, while solving it locally.
 - All the solutions uploaded here have passed every test case and has been accepted at the time of my submission.
 - You can also check out the problems listed here on leetcode site, I've hyperlinked the problem numbers. 
