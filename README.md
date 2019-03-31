@@ -40,6 +40,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best time to buy and sell stock II](../master/problems/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best time to buy and sell stock](../master/problems/Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](../master/problems/Maximum%20Subarray)|
+|[1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Binary Prefix Divisible By 5](../master/problems/Binary%20Prefix%20Divisible%20By%205)|
 
 ### Disclaimer:
 - The problem no. could be different than actual problem no. on leetcode site.
