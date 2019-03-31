@@ -1,5 +1,3 @@
-
-
 class Solution {
     public String baseNeg2(int N) {
         if(N == 0) return "0";
