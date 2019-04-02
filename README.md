@@ -43,6 +43,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](../master/problems/Maximum%20Subarray)|
 |[1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Binary Prefix Divisible By 5](../master/problems/Binary%20Prefix%20Divisible%20By%205)|
 | [225](https://leetcode.com/problems/implement-stack-using-queues/)| [Implement Stack using Queues](../master/problems/Implement%20Stack%20using%20Queues)|
+|[232](https://leetcode.com/problems/implement-queue-using-stacks/)|[Implement Queue using Stacks](../master/problems/Implement%20Queue%20using%20Stacks)|
 
 ### Disclaimer:
 - The problem no. could be different than actual problem no. on leetcode site.
