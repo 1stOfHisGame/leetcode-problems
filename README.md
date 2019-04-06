@@ -8,6 +8,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of two sorted arrays](../master/problems/Median%20of%20two%20sorted%20arrays) |
 | [710](https://leetcode.com/problems/random-pick-with-blacklist/) | [Random Pick With Blacklist](../master/problems/Random%20Pick%20With%20Blacklist) |
 | [42](https://leetcode.com/problems/trapping-rain-water/) | [Trapping Rain Water](../master/problems/Trapping%20Rain%20Water) |
+| [685](https://leetcode.com/problems/redundant-connection-ii/) | [Redundant Connection II](../master/problems/Redundant%20Connection%20II) |
 
 ## Medium problems
 
