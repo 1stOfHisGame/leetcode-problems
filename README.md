@@ -50,6 +50,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 |[232](https://leetcode.com/problems/implement-queue-using-stacks/)|[Implement Queue using Stacks](../master/problems/Implement%20Queue%20using%20Stacks)|
 |[707](https://leetcode.com/problems/design-linked-list/)|[Design Linked List](../master/problems/Design%20Linked%20List)|
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Sum of Root To Leaf Binary Numbers](../master/problems/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)|
+|[1021](https://leetcode.com/problems/remove-outermost-parentheses/)|[Remove Outermost Parentheses](../master/problems/Remove%20Outermost%20Parentheses)
 
 ### Disclaimer:
 - The problem no. could be different than actual problem no. on leetcode site.
