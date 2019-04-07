@@ -31,7 +31,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [1020](https://leetcode.com/problems/number-of-enclaves/)|[Number of Enclaves](../master/problems/Number%20of%20Enclaves) |
 | [684](https://leetcode.com/problems/redundant-connection/) | [Redundant Connection II](../master/problems/Redundant%20Connection) |
 | [1024](https://leetcode.com/problems/video-stitching/) | [Video Stitching](../master/problems/Video%20Stitching) |
-| [1024](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](../master/problems/Camelcase%20Matching) |
+| [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](../master/problems/Camelcase%20Matching) |
 
 
 ## Easy problems
