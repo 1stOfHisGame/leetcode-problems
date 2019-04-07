@@ -49,6 +49,7 @@ Java solution for some of the leetcode problems.<br/>Will keep on updating as I 
 | [225](https://leetcode.com/problems/implement-stack-using-queues/)| [Implement Stack using Queues](../master/problems/Implement%20Stack%20using%20Queues)|
 |[232](https://leetcode.com/problems/implement-queue-using-stacks/)|[Implement Queue using Stacks](../master/problems/Implement%20Queue%20using%20Stacks)|
 |[707](https://leetcode.com/problems/design-linked-list/)|[Design Linked List](../master/problems/Design%20Linked%20List)|
+|[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Sum of Root To Leaf Binary Numbers](../master/problems/Sum%20of%20Root%20To%20Leaf%20BinaryNumbers)|
 
 ### Disclaimer:
 - The problem no. could be different than actual problem no. on leetcode site.
